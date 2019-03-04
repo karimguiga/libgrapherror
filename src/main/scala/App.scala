@@ -1,7 +1,8 @@
-package scala.main;
+package scala.main
+
+import scalax.collection.Graph
 
 object App {
-
   def main(args: Array[String]): Unit = {
 
     val g = Graph(1 ~ 2, 2 ~ 3, 4 ~ 5)
@@ -12,5 +13,4 @@ object App {
 
     println(res)
   }
-
 }
