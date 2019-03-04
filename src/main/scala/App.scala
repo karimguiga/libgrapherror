@@ -1,5 +1,3 @@
-package scala.main
-
 import scalax.collection.Graph
 
 object App {
