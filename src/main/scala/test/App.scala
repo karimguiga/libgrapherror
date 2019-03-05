@@ -1,4 +1,5 @@
 import scalax.collection.Graph
+import scalax.collection.GraphPredef._
 
 object App {
   def main(args: Array[String]): Unit = {
